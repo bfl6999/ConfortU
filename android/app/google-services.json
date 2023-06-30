@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683338031237",
+    "project_id": "confort-u",
+    "storage_bucket": "confort-u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683338031237:android:5ee335642abe0cfe27c9ec",
+        "android_client_info": {
+          "package_name": "com.ual.confortu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683338031237-ehs76nk78l4b9ad32ku12fgqn8ao8jcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwiqVaBkd5rQ9_cGsv2C2ykYKZfvGaQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683338031237-ehs76nk78l4b9ad32ku12fgqn8ao8jcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
